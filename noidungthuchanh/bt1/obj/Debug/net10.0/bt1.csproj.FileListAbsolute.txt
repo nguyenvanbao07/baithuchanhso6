@@ -1,0 +1,14 @@
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.AssemblyInfoInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.AssemblyInfo.cs
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.csproj.CoreCompileInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\bin\Debug\net10.0\bt1.exe
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\bin\Debug\net10.0\bt1.deps.json
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\bin\Debug\net10.0\bt1.runtimeconfig.json
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\bin\Debug\net10.0\bt1.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\bin\Debug\net10.0\bt1.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\refint\bt1.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\bt1.genruntimeconfig.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\bt1\obj\Debug\net10.0\ref\bt1.dll

@@ -1,0 +1,14 @@
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.exe
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.deps.json
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.runtimeconfig.json
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\bin\Debug\net10.0\bt3.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.AssemblyInfoInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.AssemblyInfo.cs
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.csproj.CoreCompileInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\refint\bt3.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\bt3.genruntimeconfig.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\noidungthuchanh\bt3\obj\Debug\net10.0\ref\bt3.dll

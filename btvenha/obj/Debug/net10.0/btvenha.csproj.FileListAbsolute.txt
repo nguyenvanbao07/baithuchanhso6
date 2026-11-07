@@ -1,0 +1,14 @@
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\bin\Debug\net10.0\btvenha.exe
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\bin\Debug\net10.0\btvenha.deps.json
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\bin\Debug\net10.0\btvenha.runtimeconfig.json
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\bin\Debug\net10.0\btvenha.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\bin\Debug\net10.0\btvenha.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.AssemblyInfoInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.AssemblyInfo.cs
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.csproj.CoreCompileInputs.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\refint\btvenha.dll
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.pdb
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\btvenha.genruntimeconfig.cache
+C:\Users\VanBao\HelloWorldApp\baithu6\btvenha\obj\Debug\net10.0\ref\btvenha.dll
